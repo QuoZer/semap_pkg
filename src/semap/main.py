@@ -4,7 +4,7 @@ import open3d as o3d
 from PIL import Image
 import matplotlib.image
 
-from mapper import Mapper
+from semap import Mapper
 
 # dataset_path = r"C:\Users\Matvey\Repos\covins_demo\src\covins\covins_backend\config\objects.yaml" 
 # pcd_path =  r"C:\Users\Matvey\Repos\covins_demo\output\covins_pcds\clc12_ag112_tuned.pcd" 
