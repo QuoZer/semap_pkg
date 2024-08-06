@@ -1,1 +1,0 @@
-# semap_pkg
